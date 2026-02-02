@@ -40,13 +40,6 @@ The objective of this task was to build a fully functional calculator with a cle
 
 ---
 
-## 🔹 Project Preview
-
-📌 Live Demo: *(Add Netlify / GitHub Pages link here)*  
-📌 Internship Task: SkillCraft Technology – Web Development Internship  
-
----
-
 ## 🔹 Future Enhancements
 
 - Scientific calculator features  
